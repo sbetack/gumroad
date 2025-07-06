@@ -45,7 +45,7 @@ export const Footer = () => (
             About
           </a>
           <a href="https://sahillavingia.com/work" className="no-underline hover:text-pink">
-            how we work
+            How We Work
           </a>
           <a href="https://www.youtube.com/watch?v=st8ns96z7d4" className="no-underline hover:text-pink">
             Board meetings
