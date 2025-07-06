@@ -44,8 +44,8 @@ export const Footer = () => (
           <a href="/about" className="no-underline hover:text-pink">
             About
           </a>
-          <a href="https://jobs.gumroad.com/" className="no-underline hover:text-pink">
-            Jobs
+          <a href="https://sahillavingia.com/work" className="no-underline hover:text-pink">
+            How We Work
           </a>
           <a href="https://www.youtube.com/watch?v=st8ns96z7d4" className="no-underline hover:text-pink">
             Board meetings
